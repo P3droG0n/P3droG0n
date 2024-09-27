@@ -1,3 +1,5 @@
+Bem vindos ao meu perfil 💙
+
 Meu nome é Pedro Gonçalves
 
 - Estou estudando na Alura
